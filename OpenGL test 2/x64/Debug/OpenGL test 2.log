@@ -1,0 +1,24 @@
+﻿  OpenGL test 2.cpp
+c:\users\andrey\source\repos\opengl test 2\opengl test 2\simple_shaiders.h(43): warning C4101: e: неиспользованная локальная переменная
+c:\users\andrey\source\repos\opengl test 2\opengl test 2\mesh.h(84): warning C4267: аргумент: преобразование из "size_t" в "GLsizei"; возможна потеря данных
+c:\users\andrey\source\repos\opengl test 2\opengl test 2\opengl test 2.cpp(220): warning C4244: инициализация: преобразование "double" в "float", возможна потеря данных
+c:\users\andrey\source\repos\opengl test 2\opengl test 2\opengl test 2.cpp(271): warning C4305: аргумент: усечение из "double" в "float"
+c:\users\andrey\source\repos\opengl test 2\opengl test 2\opengl test 2.cpp(272): warning C4305: аргумент: усечение из "double" в "float"
+c:\users\andrey\source\repos\opengl test 2\opengl test 2\opengl test 2.cpp(279): warning C4305: аргумент: усечение из "double" в "float"
+c:\users\andrey\source\repos\opengl test 2\opengl test 2\opengl test 2.cpp(280): warning C4305: аргумент: усечение из "double" в "float"
+c:\users\andrey\source\repos\opengl test 2\opengl test 2\opengl test 2.cpp(287): warning C4305: аргумент: усечение из "double" в "float"
+c:\users\andrey\source\repos\opengl test 2\opengl test 2\opengl test 2.cpp(288): warning C4305: аргумент: усечение из "double" в "float"
+c:\users\andrey\source\repos\opengl test 2\opengl test 2\opengl test 2.cpp(295): warning C4305: аргумент: усечение из "double" в "float"
+c:\users\andrey\source\repos\opengl test 2\opengl test 2\opengl test 2.cpp(296): warning C4305: аргумент: усечение из "double" в "float"
+c:\users\andrey\source\repos\opengl test 2\opengl test 2\opengl test 2.cpp(305): warning C4305: аргумент: усечение из "double" в "float"
+c:\users\andrey\source\repos\opengl test 2\opengl test 2\opengl test 2.cpp(306): warning C4305: аргумент: усечение из "double" в "float"
+c:\users\andrey\source\repos\opengl test 2\opengl test 2\opengl test 2.cpp(317): warning C4305: аргумент: усечение из "double" в "float"
+c:\users\andrey\source\repos\opengl test 2\opengl test 2\opengl test 2.cpp(318): warning C4305: аргумент: усечение из "double" в "float"
+c:\users\andrey\source\repos\opengl test 2\opengl test 2\opengl test 2.cpp(451): warning C4244: =: преобразование "double" в "GLfloat", возможна потеря данных
+c:\users\andrey\source\repos\opengl test 2\opengl test 2\opengl test 2.cpp(452): warning C4244: =: преобразование "double" в "GLfloat", возможна потеря данных
+c:\users\andrey\source\repos\opengl test 2\opengl test 2\opengl test 2.cpp(456): warning C4244: инициализация: преобразование "double" в "float", возможна потеря данных
+c:\users\andrey\source\repos\opengl test 2\opengl test 2\opengl test 2.cpp(457): warning C4244: инициализация: преобразование "double" в "float", возможна потеря данных
+c:\users\andrey\source\repos\opengl test 2\opengl test 2\opengl test 2.cpp(459): warning C4244: =: преобразование "double" в "GLfloat", возможна потеря данных
+c:\users\andrey\source\repos\opengl test 2\opengl test 2\opengl test 2.cpp(460): warning C4244: =: преобразование "double" в "GLfloat", возможна потеря данных
+c:\users\andrey\source\repos\opengl test 2\opengl test 2\opengl test 2.cpp(469): warning C4244: аргумент: преобразование "double" в "float", возможна потеря данных
+  OpenGL test 2.vcxproj -> C:\Users\Andrey\source\repos\OpenGL test 2\x64\Debug\OpenGL test 2.exe
